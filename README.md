@@ -1,1 +1,1 @@
-The .exe Game File can be found in /Build.
+The .exe File can be found under release.
